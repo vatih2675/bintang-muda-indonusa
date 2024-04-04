@@ -11,8 +11,8 @@ var dataTiktok = "";
 var dataYoutube = "";
 var versiApp = "1.0.0";
 var versiWeb = "Developer"; // Developer / Online
-// let pathWeb = "/bintang-muda-indonusa/";
-let pathWeb = "/";
+let pathWeb = "/bintang-muda-indonusa/";
+// let pathWeb = "/";
 
 // NAVBAR
 // NAV TOP
