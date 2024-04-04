@@ -52,7 +52,7 @@ function renderNavbar() {
   `;
 
   navBottom.innerHTML = `<div class="container">
-                          <a class="h3 m-0 text-primary" href="/"><img src="assets/img/logo4.png" width="50px" alt="Logo" class="rounded-circle"><strong>${namaPerusahaan}</strong></a>
+                          <a class="h3 m-0 text-primary" href="index.html"><img src="assets/img/logo4.png" width="50px" alt="Logo" class="rounded-circle"><strong>${namaPerusahaan}</strong></a>
                           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navMenu" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                           </button>
@@ -215,7 +215,7 @@ function renderFooter() {
                         <li class="py-0 py-md-1"><a href="services.html" class="text-white">Keuangan</a></li>
                     </ul>
                 </div>
-                <div class="col-12 col-md-3 mb-md-0">
+                <div class="col-6 col-md-3 mb-md-0">
                     <h5 class="text-white"><strong>BANTUAN &amp; DUKUNGAN</strong></h5>
                     <ul class="list-unstyled">
                         <li class="py-0 py-md-1"><a href="#" target="_blank" class="text-white linkWhatsapp">Hubungi Kami</a></li>
@@ -224,7 +224,7 @@ function renderFooter() {
                         <li class="py-0 py-md-1"><a href="#" class="text-white">Forum Tanya Jawab</a></li>
                     </ul>
                 </div>
-                <div class="col-12 col-md-3 mb-md-0">
+                <div class="col-6 col-md-3 mb-md-0">
                     <h5 class="text-white"><strong>SOSIAL MEDIA</strong></h5>
                     <ul class="list-unstyled">
                         <li class="py-0 py-md-1"><a href="https://wa.me/62${dataTelepon}" target="_blank" class="text-white"><i class="bi bi-whatsapp mr-1"></i> WhatsApp</a></li>
