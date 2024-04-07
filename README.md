@@ -1,25 +1,30 @@
-*PT BINTANG MUDA INDONUSA*
-*Layanan Jasa Pengurusan Dokumen*
-=========================================
+<h1>PT BINTANG MUDA INDONUSA</h1>
+<h3>Layanan Jasa Pengurusan Dokumen</h3>
+<hr>
 Berikut produk jasa yang kami tawarkan :
-⭐ PT Perseroan (Promo)
-⭐ PT Perseroan (Exclusive)
-⭐ CV / UD / Yayasan
-⭐ PT Perorangan
-⭐ PT Perorangan (Exclusive) 
-⭐ Paket Company Profile
-⭐ Akta Penegasan (Notaril)
-⭐ Pembuatan Izin PIRT
-⭐ Pembuatan NPWP / NIB
-⭐ SPT Tahunan Badan Usaha
-⭐ SPT Tahunan Pribadi
-⭐ SBU/ SKK / KTA
-⭐ PENGURUSAN BALIK NAMA SERTIFIKAT TANAH. 
-⭐ PENGURUSAN PENGAJUAN KREDIT PINJAMAN DANA.
-⭐ DANA TALANGAN. 
-Khusus dana talangan bagi nasabah yang mau take over kredit dari bank, atau mau pelunasan angsuran di finance tapi tidak ada dana, dan mau pengajuan kredit ulang di tempat lain, kami siap bantu dana talangan, mulai dari 1juta Hingga 2,5milyar)
-Dana talangan hanya berlaku di Sulawesi Utara, Kotamobagu dan Gorontalo saja
-
-*Note*:
-# UNTUK POINT 1 SAMPAI 12, MELAYANI PENGURUSAN DOKUMEN DI SELURUH WILAYAH INDONESIA. 
-# UNTUK POINT 13 DAN 14, BERLAKU PENGURUSAN DOKUMEN SE PROVINSI SULAWESI UTARA
+<ul>
+  <li>⭐ PT Perseroan (Promo)</li>
+  <li>⭐ PT Perseroan (Exclusive)</li>
+  <li>⭐ CV / UD / Yayasan</li>
+  <li>⭐ PT Perorangan</li>
+  <li>⭐ PT Perorangan (Exclusive)</li>
+  <li>⭐ Paket Company Profile</li>
+  <li>⭐ Akta Penegasan (Notaril)</li>
+  <li>⭐ Pembuatan Izin PIRT</li>
+  <li>⭐ Pembuatan NPWP / NIB</li>
+  <li>⭐ SPT Tahunan Badan Usaha</li>
+  <li>⭐ SPT Tahunan Pribadi</li>
+  <li>⭐ SBU / SKK / KTA</li>
+  <li>⭐ Pengurusan Balik Nama Sertifikat Tanah</li>
+  <li>⭐ Pengurusan Pengajuan Kredit Pinjaman Dana</li>
+  <li>⭐ Dana Talangan</li>
+</ul>  
+<small><i>Khusus dana talangan bagi nasabah yang mau take over kredit dari bank, atau mau pelunasan angsuran di finance tapi tidak ada dana, dan mau pengajuan kredit ulang di tempat lain, kami siap bantu dana talangan, mulai dari 1juta Hingga 2,5milyar)</i>
+<br><br>
+<i>Dana talangan hanya berlaku di Sulawesi Utara, Kotamobagu dan Gorontalo saja</i></small>
+<br><br>
+<i>Note :</i>
+<br>
+<i>* Point 1 s/d 12 melayani pengurusan dokumen seluruh Indonesia</i>
+<br>
+<i>* Point 13 & 14 Hanya berlaku pengurusn dokumen se Provinsi Sulawesi Utara</i>
