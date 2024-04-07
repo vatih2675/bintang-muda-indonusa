@@ -20,7 +20,7 @@ dataKaryawan.forEach((kry) => {
                                 <span>${kry.jabatan}</span>
                             </div>
                             <div class="card-footer">
-                                <a href="${kry.linkSosmed}" target="_blank" class="d-block"><i class="bi bi-${kry.sosmed}"></i> R Pilohima</a>
+                                <a href="${kry.linkSosmed}" target="_blank" class="d-block targetBlank text-primary"><i class="bi bi-${kry.sosmed}"></i> R Pilohima</a>
                             </div>
                         </div>
                     </div>`;
